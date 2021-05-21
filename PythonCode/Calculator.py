@@ -14,13 +14,6 @@ class Calculator:
     def add(self, a, b):
         return a + b
 
-    #相减
-    def subtract(self,a,b):
-        return a - b
-
-    #相乘
-    def Multiply(self,a,b):
-        return a * b
     #相除
     def div(self, a, b):
         return a / b
