@@ -19,7 +19,7 @@ add:
       - [1,0,1]
       - [0.2,0.5,1]
       - [-1,0,1]
-    ids: ['int','zero','bignum','minus','result0']
+    ids: ['整数','zero','bignum','minus','result0']
   float:
     datas:
       - [0.1,0.1,0.2]
